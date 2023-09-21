@@ -36,3 +36,7 @@ test/uchardet-tests.exe
 
 # For macOS (untested)
 src/libuchardet.dylib
+
+# Zig buildsystem
+zig-cache/
+zig-out/
